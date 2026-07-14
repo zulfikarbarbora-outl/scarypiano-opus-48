@@ -1,0 +1,1989 @@
+{
+  "library": "karoryfer.scarypiano",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/karoryfer.scarypiano",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/scarypiano-opus-48",
+  "branch": "master",
+  "fileCount": 150,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/",
+  "files": [
+    {
+      "file": "A1-1-48_Dehumanised.opus",
+      "name": "A1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A1-1-48_Dehumanised.opus",
+      "size": 99834,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A2-1-48_Dehumanised.opus",
+      "name": "A2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A2-1-48_Dehumanised.opus",
+      "size": 83426,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A3-1-48_Dehumanised.opus",
+      "name": "A3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A3-1-48_Dehumanised.opus",
+      "size": 66849,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4-1-48_Dehumanised.opus",
+      "name": "A4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A4-1-48_Dehumanised.opus",
+      "size": 63057,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A5-1-48_Dehumanised.opus",
+      "name": "A5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A5-1-48_Dehumanised.opus",
+      "size": 41937,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A6-1-48_Dehumanised.opus",
+      "name": "A6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A6-1-48_Dehumanised.opus",
+      "size": 30617,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A7-1-48_Dehumanised.opus",
+      "name": "A7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/A7-1-48_Dehumanised.opus",
+      "size": 14276,
+      "note": "A7",
+      "midiNote": 105,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab1-1-48_Dehumanised.opus",
+      "name": "Ab1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab1-1-48_Dehumanised.opus",
+      "size": 105663,
+      "note": "Ab1",
+      "midiNote": 32,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab2-1-48_Dehumanised.opus",
+      "name": "Ab2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab2-1-48_Dehumanised.opus",
+      "size": 78329,
+      "note": "Ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab3-1-48_Dehumanised.opus",
+      "name": "Ab3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab3-1-48_Dehumanised.opus",
+      "size": 66763,
+      "note": "Ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab4-1-48_Dehumanised.opus",
+      "name": "Ab4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab4-1-48_Dehumanised.opus",
+      "size": 64414,
+      "note": "Ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab5-1-48_Dehumanised.opus",
+      "name": "Ab5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab5-1-48_Dehumanised.opus",
+      "size": 43449,
+      "note": "Ab5",
+      "midiNote": 80,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab6-1-48_Dehumanised.opus",
+      "name": "Ab6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab6-1-48_Dehumanised.opus",
+      "size": 29684,
+      "note": "Ab6",
+      "midiNote": 92,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ab7-1-48_Dehumanised.opus",
+      "name": "Ab7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Ab7-1-48_Dehumanised.opus",
+      "size": 16435,
+      "note": "Ab7",
+      "midiNote": 104,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B0-1-48_Dehumanised.opus",
+      "name": "B0-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B0-1-48_Dehumanised.opus",
+      "size": 97441,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B1-1-48_Dehumanised.opus",
+      "name": "B1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B1-1-48_Dehumanised.opus",
+      "size": 101770,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B2-1-48_Dehumanised.opus",
+      "name": "B2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B2-1-48_Dehumanised.opus",
+      "size": 87043,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B3-1-48_Dehumanised.opus",
+      "name": "B3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B3-1-48_Dehumanised.opus",
+      "size": 65236,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B4-1-48_Dehumanised.opus",
+      "name": "B4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B4-1-48_Dehumanised.opus",
+      "size": 67597,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B5-1-48_Dehumanised.opus",
+      "name": "B5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B5-1-48_Dehumanised.opus",
+      "size": 45492,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B6-1-48_Dehumanised.opus",
+      "name": "B6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B6-1-48_Dehumanised.opus",
+      "size": 27773,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B7-1-48_Dehumanised.opus",
+      "name": "B7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/B7-1-48_Dehumanised.opus",
+      "size": 14491,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb0-1-48_Dehumanised.opus",
+      "name": "Bb0-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb0-1-48_Dehumanised.opus",
+      "size": 98545,
+      "note": "Bb0",
+      "midiNote": 22,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb1-1-48_Dehumanised.opus",
+      "name": "Bb1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb1-1-48_Dehumanised.opus",
+      "size": 101211,
+      "note": "Bb1",
+      "midiNote": 34,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb2-1-48_Dehumanised.opus",
+      "name": "Bb2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb2-1-48_Dehumanised.opus",
+      "size": 73703,
+      "note": "Bb2",
+      "midiNote": 46,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb3-1-48_Dehumanised.opus",
+      "name": "Bb3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb3-1-48_Dehumanised.opus",
+      "size": 65153,
+      "note": "Bb3",
+      "midiNote": 58,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb4-1-48_Dehumanised.opus",
+      "name": "Bb4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb4-1-48_Dehumanised.opus",
+      "size": 64275,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb5-1-48_Dehumanised.opus",
+      "name": "Bb5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb5-1-48_Dehumanised.opus",
+      "size": 43033,
+      "note": "Bb5",
+      "midiNote": 82,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb6-1-48_Dehumanised.opus",
+      "name": "Bb6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb6-1-48_Dehumanised.opus",
+      "size": 30013,
+      "note": "Bb6",
+      "midiNote": 94,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Bb7-1-48_Dehumanised.opus",
+      "name": "Bb7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Bb7-1-48_Dehumanised.opus",
+      "size": 14962,
+      "note": "Bb7",
+      "midiNote": 106,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C1-1-48_Dehumanised.opus",
+      "name": "C1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C1-1-48_Dehumanised.opus",
+      "size": 97852,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C2-1-48_Dehumanised.opus",
+      "name": "C2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C2-1-48_Dehumanised.opus",
+      "size": 75604,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3-1-48_Dehumanised.opus",
+      "name": "C3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C3-1-48_Dehumanised.opus",
+      "size": 66297,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4-1-48_Dehumanised.opus",
+      "name": "C4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C4-1-48_Dehumanised.opus",
+      "size": 60686,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5-1-48_Dehumanised.opus",
+      "name": "C5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C5-1-48_Dehumanised.opus",
+      "size": 45445,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6-1-48_Dehumanised.opus",
+      "name": "C6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C6-1-48_Dehumanised.opus",
+      "size": 32137,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7-1-48_Dehumanised.opus",
+      "name": "C7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C7-1-48_Dehumanised.opus",
+      "size": 17032,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C8-1-48_Dehumanised.opus",
+      "name": "C8-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/C8-1-48_Dehumanised.opus",
+      "size": 14849,
+      "note": "C8",
+      "midiNote": 108,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D1-1-48_Dehumanised.opus",
+      "name": "D1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D1-1-48_Dehumanised.opus",
+      "size": 98829,
+      "note": "D1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D2-1-48_Dehumanised.opus",
+      "name": "D2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D2-1-48_Dehumanised.opus",
+      "size": 76790,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D3-1-48_Dehumanised.opus",
+      "name": "D3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D3-1-48_Dehumanised.opus",
+      "size": 59397,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D4-1-48_Dehumanised.opus",
+      "name": "D4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D4-1-48_Dehumanised.opus",
+      "size": 64254,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5-1-48_Dehumanised.opus",
+      "name": "D5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D5-1-48_Dehumanised.opus",
+      "size": 45984,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D6-1-48_Dehumanised.opus",
+      "name": "D6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D6-1-48_Dehumanised.opus",
+      "size": 35680,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D7-1-48_Dehumanised.opus",
+      "name": "D7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/D7-1-48_Dehumanised.opus",
+      "size": 15111,
+      "note": "D7",
+      "midiNote": 98,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db1-1-48_Dehumanised.opus",
+      "name": "Db1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db1-1-48_Dehumanised.opus",
+      "size": 104945,
+      "note": "Db1",
+      "midiNote": 25,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db2-1-48_Dehumanised.opus",
+      "name": "Db2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db2-1-48_Dehumanised.opus",
+      "size": 72665,
+      "note": "Db2",
+      "midiNote": 37,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db3-1-48_Dehumanised.opus",
+      "name": "Db3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db3-1-48_Dehumanised.opus",
+      "size": 57388,
+      "note": "Db3",
+      "midiNote": 49,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db4-1-48_Dehumanised.opus",
+      "name": "Db4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db4-1-48_Dehumanised.opus",
+      "size": 68696,
+      "note": "Db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db5-1-48_Dehumanised.opus",
+      "name": "Db5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db5-1-48_Dehumanised.opus",
+      "size": 48467,
+      "note": "Db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db6-1-48_Dehumanised.opus",
+      "name": "Db6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db6-1-48_Dehumanised.opus",
+      "size": 31477,
+      "note": "Db6",
+      "midiNote": 85,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Db7-1-48_Dehumanised.opus",
+      "name": "Db7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Db7-1-48_Dehumanised.opus",
+      "size": 15570,
+      "note": "Db7",
+      "midiNote": 97,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E1-1-48_Dehumanised.opus",
+      "name": "E1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E1-1-48_Dehumanised.opus",
+      "size": 106082,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2-1-48_Dehumanised.opus",
+      "name": "E2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E2-1-48_Dehumanised.opus",
+      "size": 80516,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3-1-48_Dehumanised.opus",
+      "name": "E3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E3-1-48_Dehumanised.opus",
+      "size": 65764,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4-1-48_Dehumanised.opus",
+      "name": "E4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E4-1-48_Dehumanised.opus",
+      "size": 68846,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5-1-48_Dehumanised.opus",
+      "name": "E5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E5-1-48_Dehumanised.opus",
+      "size": 48750,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6-1-48_Dehumanised.opus",
+      "name": "E6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E6-1-48_Dehumanised.opus",
+      "size": 32718,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E7-1-48_Dehumanised.opus",
+      "name": "E7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E7-1-48_Dehumanised.opus",
+      "size": 14863,
+      "note": "E7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E7-97-127_Dehumanised.opus",
+      "name": "E7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/E7-97-127_Dehumanised.opus",
+      "size": 14298,
+      "note": "E7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb1-1-48_Dehumanised.opus",
+      "name": "Eb1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb1-1-48_Dehumanised.opus",
+      "size": 101289,
+      "note": "Eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb2-1-48_Dehumanised.opus",
+      "name": "Eb2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb2-1-48_Dehumanised.opus",
+      "size": 75789,
+      "note": "Eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb3-1-48_Dehumanised.opus",
+      "name": "Eb3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb3-1-48_Dehumanised.opus",
+      "size": 65256,
+      "note": "Eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb4-1-48_Dehumanised.opus",
+      "name": "Eb4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb4-1-48_Dehumanised.opus",
+      "size": 65207,
+      "note": "Eb4",
+      "midiNote": 63,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb5-1-48_Dehumanised.opus",
+      "name": "Eb5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb5-1-48_Dehumanised.opus",
+      "size": 46503,
+      "note": "Eb5",
+      "midiNote": 75,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb6-1-48_Dehumanised.opus",
+      "name": "Eb6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb6-1-48_Dehumanised.opus",
+      "size": 32152,
+      "note": "Eb6",
+      "midiNote": 87,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Eb7-1-48_Dehumanised.opus",
+      "name": "Eb7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Eb7-1-48_Dehumanised.opus",
+      "size": 15389,
+      "note": "Eb7",
+      "midiNote": 99,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F1-1-48_Dehumanised.opus",
+      "name": "F1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F1-1-48_Dehumanised.opus",
+      "size": 100654,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F2-1-48_Dehumanised.opus",
+      "name": "F2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F2-1-48_Dehumanised.opus",
+      "size": 76570,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3-1-48_Dehumanised.opus",
+      "name": "F3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F3-1-48_Dehumanised.opus",
+      "size": 71898,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4-1-48_Dehumanised.opus",
+      "name": "F4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F4-1-48_Dehumanised.opus",
+      "size": 67230,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F5-1-48_Dehumanised.opus",
+      "name": "F5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F5-1-48_Dehumanised.opus",
+      "size": 48972,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F6-1-48_Dehumanised.opus",
+      "name": "F6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F6-1-48_Dehumanised.opus",
+      "size": 33263,
+      "note": "F6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F7-1-48_Dehumanised.opus",
+      "name": "F7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/F7-1-48_Dehumanised.opus",
+      "size": 14616,
+      "note": "F7",
+      "midiNote": 101,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G1-1-48_Dehumanised.opus",
+      "name": "G1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G1-1-48_Dehumanised.opus",
+      "size": 105019,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G2-1-48_Dehumanised.opus",
+      "name": "G2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G2-1-48_Dehumanised.opus",
+      "size": 72827,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G3-1-48_Dehumanised.opus",
+      "name": "G3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G3-1-48_Dehumanised.opus",
+      "size": 62824,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4-1-48_Dehumanised.opus",
+      "name": "G4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G4-1-48_Dehumanised.opus",
+      "size": 68201,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G5-1-48_Dehumanised.opus",
+      "name": "G5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G5-1-48_Dehumanised.opus",
+      "size": 48589,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G6-1-48_Dehumanised.opus",
+      "name": "G6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G6-1-48_Dehumanised.opus",
+      "size": 30965,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G7-1-48_Dehumanised.opus",
+      "name": "G7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/G7-1-48_Dehumanised.opus",
+      "size": 14293,
+      "note": "G7",
+      "midiNote": 103,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb1-1-48_Dehumanised.opus",
+      "name": "Gb1-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb1-1-48_Dehumanised.opus",
+      "size": 107753,
+      "note": "Gb1",
+      "midiNote": 30,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb2-1-48_Dehumanised.opus",
+      "name": "Gb2-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb2-1-48_Dehumanised.opus",
+      "size": 75920,
+      "note": "Gb2",
+      "midiNote": 42,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb3-1-48_Dehumanised.opus",
+      "name": "Gb3-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb3-1-48_Dehumanised.opus",
+      "size": 68389,
+      "note": "Gb3",
+      "midiNote": 54,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb4-1-48_Dehumanised.opus",
+      "name": "Gb4-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb4-1-48_Dehumanised.opus",
+      "size": 70513,
+      "note": "Gb4",
+      "midiNote": 66,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb5-1-48_Dehumanised.opus",
+      "name": "Gb5-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb5-1-48_Dehumanised.opus",
+      "size": 46236,
+      "note": "Gb5",
+      "midiNote": 78,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb6-1-48_Dehumanised.opus",
+      "name": "Gb6-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb6-1-48_Dehumanised.opus",
+      "size": 31249,
+      "note": "Gb6",
+      "midiNote": 90,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gb7-1-48_Dehumanised.opus",
+      "name": "Gb7-1-48_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/Gb7-1-48_Dehumanised.opus",
+      "size": 13861,
+      "note": "Gb7",
+      "midiNote": 102,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A0-97-127_Dehumanised.opus",
+      "name": "alt_loud_A0-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A0-97-127_Dehumanised.opus",
+      "size": 97789,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A1-97-127_Dehumanised.opus",
+      "name": "alt_loud_A1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A1-97-127_Dehumanised.opus",
+      "size": 92714,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A2-97-127_Dehumanised.opus",
+      "name": "alt_loud_A2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A2-97-127_Dehumanised.opus",
+      "size": 91613,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A3-97-127_Dehumanised.opus",
+      "name": "alt_loud_A3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A3-97-127_Dehumanised.opus",
+      "size": 76357,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A4-97-127_Dehumanised.opus",
+      "name": "alt_loud_A4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A4-97-127_Dehumanised.opus",
+      "size": 82556,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A5-97-127_Dehumanised.opus",
+      "name": "alt_loud_A5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A5-97-127_Dehumanised.opus",
+      "size": 44482,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A6-97-127_Dehumanised.opus",
+      "name": "alt_loud_A6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A6-97-127_Dehumanised.opus",
+      "size": 27234,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_A7-97-127_Dehumanised.opus",
+      "name": "alt_loud_A7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_A7-97-127_Dehumanised.opus",
+      "size": 13484,
+      "note": "A7",
+      "midiNote": 105,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab1-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab1-97-127_Dehumanised.opus",
+      "size": 101633,
+      "note": "Ab1",
+      "midiNote": 32,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab2-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab2-97-127_Dehumanised.opus",
+      "size": 89016,
+      "note": "Ab2",
+      "midiNote": 44,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab3-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab3-97-127_Dehumanised.opus",
+      "size": 78065,
+      "note": "Ab3",
+      "midiNote": 56,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab4-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab4-97-127_Dehumanised.opus",
+      "size": 85564,
+      "note": "Ab4",
+      "midiNote": 68,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab5-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab5-97-127_Dehumanised.opus",
+      "size": 49714,
+      "note": "Ab5",
+      "midiNote": 80,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab6-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab6-97-127_Dehumanised.opus",
+      "size": 28028,
+      "note": "Ab6",
+      "midiNote": 92,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Ab7-97-127_Dehumanised.opus",
+      "name": "alt_loud_Ab7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Ab7-97-127_Dehumanised.opus",
+      "size": 13831,
+      "note": "Ab7",
+      "midiNote": 104,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B0-97-127_Dehumanised.opus",
+      "name": "alt_loud_B0-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B0-97-127_Dehumanised.opus",
+      "size": 96503,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B1-97-127_Dehumanised.opus",
+      "name": "alt_loud_B1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B1-97-127_Dehumanised.opus",
+      "size": 94861,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B2-97-127_Dehumanised.opus",
+      "name": "alt_loud_B2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B2-97-127_Dehumanised.opus",
+      "size": 99361,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B3-97-127_Dehumanised.opus",
+      "name": "alt_loud_B3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B3-97-127_Dehumanised.opus",
+      "size": 78505,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B4-97-127_Dehumanised.opus",
+      "name": "alt_loud_B4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B4-97-127_Dehumanised.opus",
+      "size": 85194,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B5-97-127_Dehumanised.opus",
+      "name": "alt_loud_B5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B5-97-127_Dehumanised.opus",
+      "size": 49471,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B6-97-127_Dehumanised.opus",
+      "name": "alt_loud_B6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B6-97-127_Dehumanised.opus",
+      "size": 23647,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_B7-97-127_Dehumanised.opus",
+      "name": "alt_loud_B7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_B7-97-127_Dehumanised.opus",
+      "size": 13469,
+      "note": "B7",
+      "midiNote": 107,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb0-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb0-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb0-97-127_Dehumanised.opus",
+      "size": 95609,
+      "note": "Bb0",
+      "midiNote": 22,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb1-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb1-97-127_Dehumanised.opus",
+      "size": 94954,
+      "note": "Bb1",
+      "midiNote": 34,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb2-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb2-97-127_Dehumanised.opus",
+      "size": 89969,
+      "note": "Bb2",
+      "midiNote": 46,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb3-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb3-97-127_Dehumanised.opus",
+      "size": 74191,
+      "note": "Bb3",
+      "midiNote": 58,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb4-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb4-97-127_Dehumanised.opus",
+      "size": 83543,
+      "note": "Bb4",
+      "midiNote": 70,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb5-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb5-97-127_Dehumanised.opus",
+      "size": 46593,
+      "note": "Bb5",
+      "midiNote": 82,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb6-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb6-97-127_Dehumanised.opus",
+      "size": 27708,
+      "note": "Bb6",
+      "midiNote": 94,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Bb7-97-127_Dehumanised.opus",
+      "name": "alt_loud_Bb7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Bb7-97-127_Dehumanised.opus",
+      "size": 13086,
+      "note": "Bb7",
+      "midiNote": 106,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C1-97-127_Dehumanised.opus",
+      "name": "alt_loud_C1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C1-97-127_Dehumanised.opus",
+      "size": 94377,
+      "note": "C1",
+      "midiNote": 24,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C2-97-127_Dehumanised.opus",
+      "name": "alt_loud_C2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C2-97-127_Dehumanised.opus",
+      "size": 80207,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C3-97-127_Dehumanised.opus",
+      "name": "alt_loud_C3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C3-97-127_Dehumanised.opus",
+      "size": 76421,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C4-97-127_Dehumanised.opus",
+      "name": "alt_loud_C4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C4-97-127_Dehumanised.opus",
+      "size": 76445,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C5-97-127_Dehumanised.opus",
+      "name": "alt_loud_C5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C5-97-127_Dehumanised.opus",
+      "size": 58753,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C6-97-127_Dehumanised.opus",
+      "name": "alt_loud_C6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C6-97-127_Dehumanised.opus",
+      "size": 34213,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C7-97-127_Dehumanised.opus",
+      "name": "alt_loud_C7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C7-97-127_Dehumanised.opus",
+      "size": 15616,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_C8-97-127_Dehumanised.opus",
+      "name": "alt_loud_C8-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_C8-97-127_Dehumanised.opus",
+      "size": 12326,
+      "note": "C8",
+      "midiNote": 108,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D1-97-127_Dehumanised.opus",
+      "name": "alt_loud_D1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D1-97-127_Dehumanised.opus",
+      "size": 91184,
+      "note": "D1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D2-97-127_Dehumanised.opus",
+      "name": "alt_loud_D2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D2-97-127_Dehumanised.opus",
+      "size": 80669,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D3-97-127_Dehumanised.opus",
+      "name": "alt_loud_D3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D3-97-127_Dehumanised.opus",
+      "size": 68681,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D4-97-127_Dehumanised.opus",
+      "name": "alt_loud_D4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D4-97-127_Dehumanised.opus",
+      "size": 81094,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D5-97-127_Dehumanised.opus",
+      "name": "alt_loud_D5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D5-97-127_Dehumanised.opus",
+      "size": 61332,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D6-97-127_Dehumanised.opus",
+      "name": "alt_loud_D6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D6-97-127_Dehumanised.opus",
+      "size": 39808,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_D7-97-127_Dehumanised.opus",
+      "name": "alt_loud_D7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_D7-97-127_Dehumanised.opus",
+      "size": 13808,
+      "note": "D7",
+      "midiNote": 98,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db1-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db1-97-127_Dehumanised.opus",
+      "size": 92785,
+      "note": "Db1",
+      "midiNote": 25,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db2-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db2-97-127_Dehumanised.opus",
+      "size": 86059,
+      "note": "Db2",
+      "midiNote": 37,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db3-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db3-97-127_Dehumanised.opus",
+      "size": 73024,
+      "note": "Db3",
+      "midiNote": 49,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db4-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db4-97-127_Dehumanised.opus",
+      "size": 82667,
+      "note": "Db4",
+      "midiNote": 61,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db5-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db5-97-127_Dehumanised.opus",
+      "size": 54138,
+      "note": "Db5",
+      "midiNote": 73,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db6-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db6-97-127_Dehumanised.opus",
+      "size": 34236,
+      "note": "Db6",
+      "midiNote": 85,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Db7-97-127_Dehumanised.opus",
+      "name": "alt_loud_Db7-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Db7-97-127_Dehumanised.opus",
+      "size": 14878,
+      "note": "Db7",
+      "midiNote": 97,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_E1-97-127_Dehumanised.opus",
+      "name": "alt_loud_E1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_E1-97-127_Dehumanised.opus",
+      "size": 97741,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_E2-97-127_Dehumanised.opus",
+      "name": "alt_loud_E2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_E2-97-127_Dehumanised.opus",
+      "size": 91768,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_E3-97-127_Dehumanised.opus",
+      "name": "alt_loud_E3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_E3-97-127_Dehumanised.opus",
+      "size": 71970,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_E4-97-127_Dehumanised.opus",
+      "name": "alt_loud_E4-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_E4-97-127_Dehumanised.opus",
+      "size": 84680,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_E5-97-127_Dehumanised.opus",
+      "name": "alt_loud_E5-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_E5-97-127_Dehumanised.opus",
+      "size": 57220,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_E6-97-127_Dehumanised.opus",
+      "name": "alt_loud_E6-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_E6-97-127_Dehumanised.opus",
+      "size": 33723,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Eb1-97-127_Dehumanised.opus",
+      "name": "alt_loud_Eb1-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Eb1-97-127_Dehumanised.opus",
+      "size": 98625,
+      "note": "Eb1",
+      "midiNote": 27,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Eb2-97-127_Dehumanised.opus",
+      "name": "alt_loud_Eb2-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Eb2-97-127_Dehumanised.opus",
+      "size": 86526,
+      "note": "Eb2",
+      "midiNote": 39,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "alt_loud_Eb3-97-127_Dehumanised.opus",
+      "name": "alt_loud_Eb3-97-127_Dehumanised.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/scarypiano-opus-48/master/alt_loud_Eb3-97-127_Dehumanised.opus",
+      "size": 70680,
+      "note": "Eb3",
+      "midiNote": 51,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "21": [
+      "alt_loud_A0-97-127_Dehumanised.opus"
+    ],
+    "22": [
+      "Bb0-1-48_Dehumanised.opus",
+      "alt_loud_Bb0-97-127_Dehumanised.opus"
+    ],
+    "23": [
+      "B0-1-48_Dehumanised.opus",
+      "alt_loud_B0-97-127_Dehumanised.opus"
+    ],
+    "24": [
+      "C1-1-48_Dehumanised.opus",
+      "alt_loud_C1-97-127_Dehumanised.opus"
+    ],
+    "25": [
+      "Db1-1-48_Dehumanised.opus",
+      "alt_loud_Db1-97-127_Dehumanised.opus"
+    ],
+    "26": [
+      "D1-1-48_Dehumanised.opus",
+      "alt_loud_D1-97-127_Dehumanised.opus"
+    ],
+    "27": [
+      "Eb1-1-48_Dehumanised.opus",
+      "alt_loud_Eb1-97-127_Dehumanised.opus"
+    ],
+    "28": [
+      "E1-1-48_Dehumanised.opus",
+      "alt_loud_E1-97-127_Dehumanised.opus"
+    ],
+    "29": [
+      "F1-1-48_Dehumanised.opus"
+    ],
+    "30": [
+      "Gb1-1-48_Dehumanised.opus"
+    ],
+    "31": [
+      "G1-1-48_Dehumanised.opus"
+    ],
+    "32": [
+      "Ab1-1-48_Dehumanised.opus",
+      "alt_loud_Ab1-97-127_Dehumanised.opus"
+    ],
+    "33": [
+      "A1-1-48_Dehumanised.opus",
+      "alt_loud_A1-97-127_Dehumanised.opus"
+    ],
+    "34": [
+      "Bb1-1-48_Dehumanised.opus",
+      "alt_loud_Bb1-97-127_Dehumanised.opus"
+    ],
+    "35": [
+      "B1-1-48_Dehumanised.opus",
+      "alt_loud_B1-97-127_Dehumanised.opus"
+    ],
+    "36": [
+      "C2-1-48_Dehumanised.opus",
+      "alt_loud_C2-97-127_Dehumanised.opus"
+    ],
+    "37": [
+      "Db2-1-48_Dehumanised.opus",
+      "alt_loud_Db2-97-127_Dehumanised.opus"
+    ],
+    "38": [
+      "D2-1-48_Dehumanised.opus",
+      "alt_loud_D2-97-127_Dehumanised.opus"
+    ],
+    "39": [
+      "Eb2-1-48_Dehumanised.opus",
+      "alt_loud_Eb2-97-127_Dehumanised.opus"
+    ],
+    "40": [
+      "E2-1-48_Dehumanised.opus",
+      "alt_loud_E2-97-127_Dehumanised.opus"
+    ],
+    "41": [
+      "F2-1-48_Dehumanised.opus"
+    ],
+    "42": [
+      "Gb2-1-48_Dehumanised.opus"
+    ],
+    "43": [
+      "G2-1-48_Dehumanised.opus"
+    ],
+    "44": [
+      "Ab2-1-48_Dehumanised.opus",
+      "alt_loud_Ab2-97-127_Dehumanised.opus"
+    ],
+    "45": [
+      "A2-1-48_Dehumanised.opus",
+      "alt_loud_A2-97-127_Dehumanised.opus"
+    ],
+    "46": [
+      "Bb2-1-48_Dehumanised.opus",
+      "alt_loud_Bb2-97-127_Dehumanised.opus"
+    ],
+    "47": [
+      "B2-1-48_Dehumanised.opus",
+      "alt_loud_B2-97-127_Dehumanised.opus"
+    ],
+    "48": [
+      "C3-1-48_Dehumanised.opus",
+      "alt_loud_C3-97-127_Dehumanised.opus"
+    ],
+    "49": [
+      "Db3-1-48_Dehumanised.opus",
+      "alt_loud_Db3-97-127_Dehumanised.opus"
+    ],
+    "50": [
+      "D3-1-48_Dehumanised.opus",
+      "alt_loud_D3-97-127_Dehumanised.opus"
+    ],
+    "51": [
+      "Eb3-1-48_Dehumanised.opus",
+      "alt_loud_Eb3-97-127_Dehumanised.opus"
+    ],
+    "52": [
+      "E3-1-48_Dehumanised.opus",
+      "alt_loud_E3-97-127_Dehumanised.opus"
+    ],
+    "53": [
+      "F3-1-48_Dehumanised.opus"
+    ],
+    "54": [
+      "Gb3-1-48_Dehumanised.opus"
+    ],
+    "55": [
+      "G3-1-48_Dehumanised.opus"
+    ],
+    "56": [
+      "Ab3-1-48_Dehumanised.opus",
+      "alt_loud_Ab3-97-127_Dehumanised.opus"
+    ],
+    "57": [
+      "A3-1-48_Dehumanised.opus",
+      "alt_loud_A3-97-127_Dehumanised.opus"
+    ],
+    "58": [
+      "Bb3-1-48_Dehumanised.opus",
+      "alt_loud_Bb3-97-127_Dehumanised.opus"
+    ],
+    "59": [
+      "B3-1-48_Dehumanised.opus",
+      "alt_loud_B3-97-127_Dehumanised.opus"
+    ],
+    "60": [
+      "C4-1-48_Dehumanised.opus",
+      "alt_loud_C4-97-127_Dehumanised.opus"
+    ],
+    "61": [
+      "Db4-1-48_Dehumanised.opus",
+      "alt_loud_Db4-97-127_Dehumanised.opus"
+    ],
+    "62": [
+      "D4-1-48_Dehumanised.opus",
+      "alt_loud_D4-97-127_Dehumanised.opus"
+    ],
+    "63": [
+      "Eb4-1-48_Dehumanised.opus"
+    ],
+    "64": [
+      "E4-1-48_Dehumanised.opus",
+      "alt_loud_E4-97-127_Dehumanised.opus"
+    ],
+    "65": [
+      "F4-1-48_Dehumanised.opus"
+    ],
+    "66": [
+      "Gb4-1-48_Dehumanised.opus"
+    ],
+    "67": [
+      "G4-1-48_Dehumanised.opus"
+    ],
+    "68": [
+      "Ab4-1-48_Dehumanised.opus",
+      "alt_loud_Ab4-97-127_Dehumanised.opus"
+    ],
+    "69": [
+      "A4-1-48_Dehumanised.opus",
+      "alt_loud_A4-97-127_Dehumanised.opus"
+    ],
+    "70": [
+      "Bb4-1-48_Dehumanised.opus",
+      "alt_loud_Bb4-97-127_Dehumanised.opus"
+    ],
+    "71": [
+      "B4-1-48_Dehumanised.opus",
+      "alt_loud_B4-97-127_Dehumanised.opus"
+    ],
+    "72": [
+      "C5-1-48_Dehumanised.opus",
+      "alt_loud_C5-97-127_Dehumanised.opus"
+    ],
+    "73": [
+      "Db5-1-48_Dehumanised.opus",
+      "alt_loud_Db5-97-127_Dehumanised.opus"
+    ],
+    "74": [
+      "D5-1-48_Dehumanised.opus",
+      "alt_loud_D5-97-127_Dehumanised.opus"
+    ],
+    "75": [
+      "Eb5-1-48_Dehumanised.opus"
+    ],
+    "76": [
+      "E5-1-48_Dehumanised.opus",
+      "alt_loud_E5-97-127_Dehumanised.opus"
+    ],
+    "77": [
+      "F5-1-48_Dehumanised.opus"
+    ],
+    "78": [
+      "Gb5-1-48_Dehumanised.opus"
+    ],
+    "79": [
+      "G5-1-48_Dehumanised.opus"
+    ],
+    "80": [
+      "Ab5-1-48_Dehumanised.opus",
+      "alt_loud_Ab5-97-127_Dehumanised.opus"
+    ],
+    "81": [
+      "A5-1-48_Dehumanised.opus",
+      "alt_loud_A5-97-127_Dehumanised.opus"
+    ],
+    "82": [
+      "Bb5-1-48_Dehumanised.opus",
+      "alt_loud_Bb5-97-127_Dehumanised.opus"
+    ],
+    "83": [
+      "B5-1-48_Dehumanised.opus",
+      "alt_loud_B5-97-127_Dehumanised.opus"
+    ],
+    "84": [
+      "C6-1-48_Dehumanised.opus",
+      "alt_loud_C6-97-127_Dehumanised.opus"
+    ],
+    "85": [
+      "Db6-1-48_Dehumanised.opus",
+      "alt_loud_Db6-97-127_Dehumanised.opus"
+    ],
+    "86": [
+      "D6-1-48_Dehumanised.opus",
+      "alt_loud_D6-97-127_Dehumanised.opus"
+    ],
+    "87": [
+      "Eb6-1-48_Dehumanised.opus"
+    ],
+    "88": [
+      "E6-1-48_Dehumanised.opus",
+      "alt_loud_E6-97-127_Dehumanised.opus"
+    ],
+    "89": [
+      "F6-1-48_Dehumanised.opus"
+    ],
+    "90": [
+      "Gb6-1-48_Dehumanised.opus"
+    ],
+    "91": [
+      "G6-1-48_Dehumanised.opus"
+    ],
+    "92": [
+      "Ab6-1-48_Dehumanised.opus",
+      "alt_loud_Ab6-97-127_Dehumanised.opus"
+    ],
+    "93": [
+      "A6-1-48_Dehumanised.opus",
+      "alt_loud_A6-97-127_Dehumanised.opus"
+    ],
+    "94": [
+      "Bb6-1-48_Dehumanised.opus",
+      "alt_loud_Bb6-97-127_Dehumanised.opus"
+    ],
+    "95": [
+      "B6-1-48_Dehumanised.opus",
+      "alt_loud_B6-97-127_Dehumanised.opus"
+    ],
+    "96": [
+      "C7-1-48_Dehumanised.opus",
+      "alt_loud_C7-97-127_Dehumanised.opus"
+    ],
+    "97": [
+      "Db7-1-48_Dehumanised.opus",
+      "alt_loud_Db7-97-127_Dehumanised.opus"
+    ],
+    "98": [
+      "D7-1-48_Dehumanised.opus",
+      "alt_loud_D7-97-127_Dehumanised.opus"
+    ],
+    "99": [
+      "Eb7-1-48_Dehumanised.opus"
+    ],
+    "100": [
+      "E7-1-48_Dehumanised.opus",
+      "E7-97-127_Dehumanised.opus"
+    ],
+    "101": [
+      "F7-1-48_Dehumanised.opus"
+    ],
+    "102": [
+      "Gb7-1-48_Dehumanised.opus"
+    ],
+    "103": [
+      "G7-1-48_Dehumanised.opus"
+    ],
+    "104": [
+      "Ab7-1-48_Dehumanised.opus",
+      "alt_loud_Ab7-97-127_Dehumanised.opus"
+    ],
+    "105": [
+      "A7-1-48_Dehumanised.opus",
+      "alt_loud_A7-97-127_Dehumanised.opus"
+    ],
+    "106": [
+      "Bb7-1-48_Dehumanised.opus",
+      "alt_loud_Bb7-97-127_Dehumanised.opus"
+    ],
+    "107": [
+      "B7-1-48_Dehumanised.opus",
+      "alt_loud_B7-97-127_Dehumanised.opus"
+    ],
+    "108": [
+      "C8-1-48_Dehumanised.opus",
+      "alt_loud_C8-97-127_Dehumanised.opus"
+    ]
+  }
+}
